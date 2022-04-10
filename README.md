@@ -24,7 +24,7 @@ well, second with a median meal price of
 
 ! [Resources/Theater_Outcoms_vs_Launch.png](path/to/Resources/Theater_Outcoms_vs_Launch.png)
 
-
+![Theater Outcomes_vs_Launch](Resources/Theater_Outcoms_vs_Launch.png)
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
