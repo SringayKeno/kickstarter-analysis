@@ -27,12 +27,6 @@ image 1
 
 ![Theater Outcomes_vs_Launch](Resources/Theater_Outcoms_vs_Launch.png)
 
-The months of May June, July, August and October all had approximately the same number of failed campaigns launched. 
-
-The number of failed and successful launches were the same in December.
-
-#### Conclusions
-Late April and May are best months for launches, with late year, Nov and December being the poorest time for launches.
 
 - What can you conclude about the Outcomes based on Goals?
 
