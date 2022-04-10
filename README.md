@@ -17,7 +17,7 @@ To know how different campaigns fared in relation to their launch dates and thei
 
 
 ## Results
--What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 Upon visual inspection of Theater Outcomes vs Launch Dates (image 1) we can see that for the catagory of theater that May was the most successful month for kickstarter launches (111 successful launches). May was followed by June (100) and July (87). 
 
