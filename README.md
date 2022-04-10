@@ -18,7 +18,7 @@ To know how different campaigns fared in relation to their launch dates and thei
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Upon visual inspection of Theater Outcomes vs Launch Dates (chart 1) we can see that for the catagory of theater the most successful Kickstarter campaigns were launched in May.
+Upon visual inspection of Theater Outcomes vs Launch Dates (image 1) we can see that for the catagory of theater the most successful Kickstarter campaigns were launched in May.
 
 
 image 1
