@@ -1,8 +1,23 @@
-# An Analysis of Kickstarter Campaigns
-## Performing analysis on kickstarter data to uncover trends
-## Purpose of this analysis
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
 ## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
 ## Results
-### Two conclusions are made about the Theater Outcomes by Launch Date
-### One conclusion is made about the Outcomes based on Goals
-### There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
