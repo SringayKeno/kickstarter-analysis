@@ -24,8 +24,9 @@ The months of May June, July, August and October all had approximately the same 
 
 The number of failed and successful launches were the same in December.
 
-### Conclusions
+#### Conclusions
 Late April and May are best months for launches, with late year, Nov and December being the poorest time for launches.
+
 image 1
 
 ![Theater Outcomes_vs_Launch](Resources/Theater_Outcoms_vs_Launch.png)
