@@ -30,7 +30,7 @@ image 1
 
 - What can you conclude about the Outcomes based on Goals?
 
-The rate of success is higher for campaigns with a funding goal that is less than $5,000 (image 2). Campaigns with a funding goal of less than a $1,000 up to $4,999 had a success rate ranging from 76% - 73%
+The rate of success was higher for campaigns with a funding goal of less than $5,000 (image 2). Campaigns with a funding goal of less than a $1,000 up to $4,999 had a success rate ranging from 73% to 76%.
 
 image 2
 
