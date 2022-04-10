@@ -22,7 +22,6 @@ Upon visual inspection of  of meal prices of restaurants in Central Austin neigh
 in terms of restaurant meals due to the high median meal price of $80, with Second Street coming in,
 well, second with a median meal price of
 
-! [Resources/Theater_Outcoms_vs_Launch.png](path/to/Resources/Theater_Outcoms_vs_Launch.png)
 
 ![Theater Outcomes_vs_Launch](Resources/Theater_Outcoms_vs_Launch.png)
 - What can you conclude about the Outcomes based on Goals?
