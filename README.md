@@ -34,6 +34,7 @@ Late April and May are best months for launches, with late year, Nov and Decembe
 ![Outcome_vs_Goals](Resources/Outcome_vs_Goals.png)
 
 - What can you conclude about the Outcomes based on Goals?
+<img width="348" alt="Outcome_vs_Goals" src="https://user-images.githubusercontent.com/102890151/162598764-0ec97e44-901c-49f2-930a-89429ebd6b98.png">
 
 - What are some limitations of this dataset?
 
