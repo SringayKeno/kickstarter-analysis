@@ -5,6 +5,7 @@
 To know how different campaigns fared in relation to their launch dates and their funding goals.
 
 ### Purpose
+<img width="241" alt="Theater_Outcoms_vs_Launch" src="https://user-images.githubusercontent.com/102890151/162598792-1c552730-80ff-4163-a41f-d71eaf5daae0.png">
 
 ## Analysis and Challenges
 
