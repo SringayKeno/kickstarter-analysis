@@ -16,7 +16,13 @@ To know how different campaigns fared in relation to their launch dates and thei
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+Upon visual inspection of  of meal prices of restaurants in Central Austin neighborhoods (Figure 3), we can see that the Congress Avenue area can be considered the most expensive neighborhood
+in terms of restaurant meals due to the high median meal price of $80, with Second Street coming in,
+well, second with a median meal price of
+
+![Theater Outcoms_vs_Launch](path/to/Theater Outcoms_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
