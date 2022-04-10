@@ -40,4 +40,6 @@ image 2
 
 - What are some limitations of this dataset?
 
+For Theater Outcomes vs Launch date the data used was from the Parent catagory 'Theater' which includes subcatagories musicals, plays and spaces. All three are different, but particularily spaces. Spaces are the infrastructure for the theater (remodeling,purchase of, building new). With the inclusion of spaces, I think the data was limited from giving a truer picture.
+
 - What are some other possible tables and/or graphs that we could create?
