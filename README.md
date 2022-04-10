@@ -31,7 +31,7 @@ The number of failed and successful launches were the same in December.
 #### Conclusions
 Late April and May are best months for launches, with late year, Nov and December being the poorest time for launches.
 
-![Outcome_vs_Goals](Resources/Outcomes_vs_Goals.png)
+![Outcome_vs_Goals](Resources/Outcome_vs_Goals.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
