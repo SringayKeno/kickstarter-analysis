@@ -2,6 +2,8 @@
 
 ## Overview of Project
 
+To know how different campaigns fared in relation to their launch dates and their funding goals.
+
 ### Purpose
 
 ## Analysis and Challenges
