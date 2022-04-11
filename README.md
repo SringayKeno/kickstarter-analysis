@@ -6,7 +6,7 @@ Our client, Louise, whose play Fever came close to its fundraising goal in a sho
 
 ### Purpose
 
-The purpose of this analysis is to is to compare the results of fundraising campaigns based on their launch dates and their funding goals. We specifically looked at the trends of theaters and plays to determine the successful, failed, and cancelled campaigns.
+The purpose of this analysis is to is to compare the results of kickstarter fundraising campaigns based on their launch dates and their funding goals. We specifically looked at the trends in the theater catagory and its subcatagory plays to determine the successful, failed, and cancelled kickstarter campaigns.
 
 
 ## Analysis and Challenges
