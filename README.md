@@ -13,10 +13,15 @@ The purpose of this analysis is to is to compare the results of kickstarter fund
 
 ### Analysis of Outcomes Based on Launch Date
 
+I used a pivot table to filter the data for the category ‘theater’ which catagory includes subcatagories; musicals, plays and spaces. I then combined the years so monthly data could be viewed in a condensed format. This allowed a view of the data seasonally and for any potential trends between the successful, failured, or cancelled for kickstarter launches in the theater catagory.
+
 ### Analysis of Outcomes Based on Goals
+
+For this goal based analysis, I looked at the number of successful, failed, and canceled campaigns based on fundraising goal. With the exception of the first range (,$1000) and the last range (>$50000) all ranges were in increments of $5000. Only fundrasing golas for the subcategory plays of plays was used. This information was plotted in a line graph to show how the percent of successes and failures changed as the goal amount increased.
 
 ### Challenges and Difficulties Encountered
 
+The one big challenge I faced was creating the table for Outcomes Based on Goals table. When creating the dollar amount ranges with the Excel formula 'Countifs' the formula needed heavy editing. I did not realize when referencing the columns for the dollar amount ranges, you need to put the '$" in front of those columns in order for the formula to capture those dollar amount ranges.
 
 ## Results
 - Two conclusions drawn about the Outcomes based on Launch Date
