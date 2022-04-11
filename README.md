@@ -34,6 +34,8 @@ image 1
 
 The rate of success was higher for campaigns with a funding goal of less than $5,000 (image 2). Campaigns with a funding goal of less than a $1,000 up to $4,999 had a success rate ranging from 73% to 76%.
 
+Campaigns with goals $45,0000 or more had the greatest chance of failure.
+
 image 2
 
 ![Outcome_vs_Goals](Resources/Outcome_vs_Goals.png)
@@ -42,6 +44,6 @@ image 2
 
 For Theater Outcomes vs Launch date the data used was from the Parent catagory 'Theater' which includes subcatagories musicals, plays and spaces. All three are different, but particularily spaces. Spaces are the infrastructure for the theater (remodeling,purchase of, building new). With the inclusion of spaces, I think the data was limited from giving a truer picture.
 
-Another limitiation of the dataset is that we don't know how the theater kickstarter campaigns recieved their funding. Did it comes from investors inside the theater community, outside the community, clooections from other theater events, or from outside media efforts. It would have been good to have looked at this data also. Where did the funding 
+With the current data, we know when the most successfu theater kickstarters were launched and we know what the most successful goals were for successful campaigns. I think it would be important to know the source of funding for successful kickstart campaigns. Did it comes from investors inside the theater community, outside the community, collections from other theater events, from outside media efforts or other? It would have been good to have looked at this data also. 
 
 - What are some other possible tables and/or graphs that we could create?
