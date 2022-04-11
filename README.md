@@ -31,7 +31,7 @@ image 1
 
 image 2
 
-![Theater Outcomes_vs_Launch_Bar](Resources/Theater_Outcoms_vs_Launch_Bar.png)
+![Theater Outcomes_vs_Launch_Bar](Resources/Theater_Outcomes_vs_Launch_Bar.png)
 
 
 - What can you conclude about the Outcomes based on Goals?
