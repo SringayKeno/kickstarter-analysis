@@ -29,11 +29,9 @@ image 1 Theater Outcomes vs Launch Date
 
 ![Theater Outcomes_vs_Launch](Resources/Theater_Outcoms_vs_Launch.png)
 
-- Two conclusions about the Outcomes based on Goals
+- Conclusions about the Outcomes based on Goals
 
-The rate of success was higher for campaigns with a funding goal of less than $5,000 (image 2 Outcome vs Goals). Campaigns with a funding goal of less than a $1,000 up to $4,999 had a success rate ranging from 73% to 76%.
-
-Campaigns with goals $45,0000 or more had the greatest chance of failure. The range between "45000 to 44900" had a 100% failure rate.
+The rate of success was higher for campaigns with a funding goal of less than $5,000 (image 2 Outcome vs Goals). Campaigns with a funding goal of less than a $1,000 saw nearly an 80% chance of being successful. For fundraising goals in the $1000$-4,999 the success rate range was still in the mid seventies. As one might expect, the higher the goal for fundrising, the lower the percentage of successful campaigns. The exception to this was in the ranges of $35,000- $44,999 range where the success rate was 67%. However, once above the $45,000 mark, the success rate plumeted to 0 or a 100% failure rate.
 
 image 2 Outcome vs Goals
 
