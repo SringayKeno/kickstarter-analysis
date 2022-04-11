@@ -46,3 +46,5 @@ For Theater Outcomes vs Launch date the data used was from the Parent catagory '
 With the current data, we know when the most successfu theater kickstarters were launched and we know what the most successful goals were for successful campaigns. I think it would be important to know the source of funding for successful kickstart campaigns. Did it comes from investors inside the theater community, outside the community, collections from other theater events, from outside media efforts or other? It would have been good to have looked at this data also. 
 
 - What are some other possible tables and/or graphs that we could create?
+
+![Theater Outcomes_vs_Launch_Bar](Resources/Theater_Outcoms_vs_Launch_Bar.png)
