@@ -6,18 +6,18 @@ The client, Louise, whose play, 'Fever' came close to its fundraising goal in a 
 
 ### Purpose
 
-The purpose of this analysis is to is to compare the results of kickstarter fundraising campaigns based on their launch dates and their funding goals. We specifically looked at the trends in the theater catagory and its subcatagory plays to determine the successful, failed, and cancelled kickstarter campaigns.
+The purpose of this analysis is to is to compare the results of kickstarter fundraising campaigns based on their launch dates and their funding goals. We specifically looked at the trends in the 'theater' catagory and its subcatagory 'play's to determine the successful, failed, and cancelled kickstarter campaigns.
 
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
-I used a pivot table to filter the data for the category ‘theater’ which catagory includes subcatagories; musicals, plays and spaces. I then combined the years so monthly data could be viewed in a condensed format. This allowed a view of the data seasonally and for any potential trends between the successful, failured, or cancelled for kickstarter launches in the theater catagory.
+I used a pivot table to filter the data for the category ‘theater’ which includes subcatagories; 'musicals', 'plays' and 'spaces'. I then combined the years so monthly data could be viewed in a condensed format. This allowed a view of the data seasonally and for any potential trends between the successful, failed, or cancelled kickstarter launches in the theater catagory.
 
 ### Analysis of Outcomes Based on Goals
 
-For this goal based analysis, I looked at the number of successful, failed, and canceled campaigns based on fundraising goal. With the exception of the first range (,$1000) and the last range (>$50000) all ranges were in increments of $5000. Only fundrasing golas for the subcategory plays of plays was used. This information was plotted in a line graph to show how the percent of successes and failures changed as the goal amount increased.
+For this goal based analysis, the number of successful, failed, and canceled campaigns based on fundraising goal was analyzed. With the exception of the first range (<$1000) and the last range (>$50000) all other ranges were in increments of $5000. Only fundrasing goals for the subcategory 'plays' of was used. This information was plotted in a line graph to show how the percent of successes and failures changed as the fundraising goal amount increased.
 
 ### Challenges and Difficulties Encountered
 
