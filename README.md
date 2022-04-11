@@ -29,11 +29,6 @@ image 1
 
 ![Theater Outcomes_vs_Launch](Resources/Theater_Outcoms_vs_Launch.png)
 
-image 2
-
-![Theater Outcomes_vs_Launch_Bar](Resources/Theater_Outcomes_vs_Launch_Bar.png)
-
-
 - What can you conclude about the Outcomes based on Goals?
 
 The rate of success was higher for campaigns with a funding goal of less than $5,000 (image 2). Campaigns with a funding goal of less than a $1,000 up to $4,999 had a success rate ranging from 73% to 76%.
