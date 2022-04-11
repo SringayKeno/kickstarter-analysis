@@ -7,6 +7,8 @@ To know how different campaigns fared in relation to their launch dates and thei
 ### Purpose
 
 
+
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
@@ -39,5 +41,7 @@ image 2
 - What are some limitations of this dataset?
 
 For Theater Outcomes vs Launch date the data used was from the Parent catagory 'Theater' which includes subcatagories musicals, plays and spaces. All three are different, but particularily spaces. Spaces are the infrastructure for the theater (remodeling,purchase of, building new). With the inclusion of spaces, I think the data was limited from giving a truer picture.
+
+Another limitiation of the dataset is that we don't know how the theater kickstarter campaigns recieved their funding. Did it comes from investors inside the theater community, outside the community, clooections from other theater events, or from outside media efforts. It would have been good to have looked at this data also. Where did the funding 
 
 - What are some other possible tables and/or graphs that we could create?
