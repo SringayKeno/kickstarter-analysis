@@ -19,7 +19,7 @@ The purpose of this analysis is to is to compare the results of kickstarter fund
 
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Two conclusions drawn about the Outcomes based on Launch Date
 
 Upon visual inspection of Theater Outcomes vs Launch Dates (image 1) we can see that for the catagory of theater that May was the most successful month for kickstarter launches (111 successful launches). May was followed by June (100) and July (87). 
 
@@ -29,7 +29,7 @@ image 1
 
 ![Theater Outcomes_vs_Launch](Resources/Theater_Outcoms_vs_Launch.png)
 
-- What can you conclude about the Outcomes based on Goals?
+- Two conclusions about the Outcomes based on Goals
 
 The rate of success was higher for campaigns with a funding goal of less than $5,000 (image 2). Campaigns with a funding goal of less than a $1,000 up to $4,999 had a success rate ranging from 73% to 76%.
 
