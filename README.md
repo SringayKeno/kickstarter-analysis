@@ -47,4 +47,4 @@ With the current data, we know when the most successfu theater kickstarters were
 
 - What are some other possible tables and/or graphs that we could create?
 
-![Theater Outcomes_vs_Launch_Bar](Resources/Theater_Outcoms_vs_Launch_Bar.png)
+![Resources/Theater_Outcomes_vs_Launch_Bar.png](Resources/Theater_Outcomes_vs_Launch_Bar.png)
