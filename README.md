@@ -47,6 +47,8 @@ With the current data, we know when the most successfu theater kickstarters were
 
 - What are some other possible tables and/or graphs that we could create?
 
+In looking at Theater Outcomes vs Launch Date we were looking at just sheer numbers per month (Number of launches successful vs failed. May did have the most successful fundraing campaigns, but it also had the most failed campaigns. The month May did have the most launched campaigns of any month, so it's not surprising to find it had the most failed and successful campaigns. A look at the percent of successful vs failed campaigns analysis be insightful (image 3 Theater Outcomes vs Launch Date Percentage Bar). In terms of percentage of successful plays vs failed plays, the month of May (67% successful) was only a few percent above June (65%) and April and July (64%).
+
 image 3 Theater Outcomes vs Launch Date Percentage Bar
 
 ![Resources/Theater_Outcomes_vs_Launch_Bar.png](Resources/Theater_Outcomes_vs_Launch_Bar.png)
