@@ -6,7 +6,7 @@ To know how different campaigns fared in relation to their launch dates and thei
 
 ### Purpose
 
-
+The purpose of this analysis is to is to compare the results of fundraising campaigns based on their launch dates and their funding goals. We specifically looked at the trends of theaters and plays to determine the successful, failed, and cancelled campaigns.
 
 
 ## Analysis and Challenges
